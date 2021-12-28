@@ -1,0 +1,24 @@
+
+Ojavascript:S1481"3Remove the declaration of the unused 'id' variable.(ÅàÖ¨
+Ljavascript:S1854"0Remove this useless assignment to variable "id".(ÅàÖ¨
+Pjavascript:S1481"4Remove the declaration of the unused 'bio' variable.(ÅàÖ¨
+Mjavascript:S1854"1Remove this useless assignment to variable "bio".(ÅàÖ¨
+Rjavascript:S1481"6Remove the declaration of the unused 'first' variable.(ÅàÖ¨
+Ojavascript:S1854"3Remove this useless assignment to variable "first".(ÅàÖ¨
+Qjavascript:S1481"5Remove the declaration of the unused 'last' variable.(ÅàÖ¨
+Njavascript:S1854"2Remove this useless assignment to variable "last".(ÅàÖ¨
+Ujavascript:S1481"9Remove the declaration of the unused 'favorite' variable.(ÅàÖ¨
+Rjavascript:S1854"6Remove this useless assignment to variable "favorite".(ÅàÖ¨
+Zjavascript:S1481">Remove the declaration of the unused 'twitterHandle' variable.(ÅàÖ¨
+Wjavascript:S1854";Remove this useless assignment to variable "twitterHandle".(ÅàÖ¨
+Tjavascript:S1481"8Remove the declaration of the unused 'company' variable.(ÅàÖ¨
+Qjavascript:S1854"5Remove this useless assignment to variable "company".(ÅàÖ¨
+Rjavascript:S1854"6Remove this useless assignment to variable "sessions".(ÅàÖ¨
+Hjavascript:S1117",'id' is already declared in the upper scope.(Çàñ
+Njavascript:S1117"-'bio' is already declared in the upper scope.(ˆ½‹ÿÿÿÿÿ
+Kjavascript:S1117 "/'first' is already declared in the upper scope.(ùê
+Ojavascript:S1117!".'last' is already declared in the upper scope.(™¹—óûÿÿÿÿ
+Mjavascript:S1117""2'favorite' is already declared in the upper scope.(‹ùì_
+Xjavascript:S1117#"7'twitterHandle' is already declared in the upper scope.(¢°Êœÿÿÿÿÿ
+Rjavascript:S1117$"1'company' is already declared in the upper scope.(„Úéûÿÿÿÿ
+Mjavascript:S1117%"2'sessions' is already declared in the upper scope.(íÛå7
